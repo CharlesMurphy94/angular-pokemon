@@ -119,6 +119,7 @@ select{
 .addNew{
   animation: .55s ease-in 0s 1 expandDown;
   display: flex;
+  /* flex-direction: column; */
   overflow: hidden;
   padding-left: 15px;
 }
